@@ -33,7 +33,7 @@ with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as client_sock:
         if server_response == "/q":
             break
         
-        print("Server:" + server_response)
+        print("Server: " + server_response)
 
     print("\nClosing client...")
     client_sock.close()
