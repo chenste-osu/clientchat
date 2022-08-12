@@ -1,4 +1,3 @@
-# CS372 - Project 4 Chat Client
 # Author: Steven Chen
 
 # Sources used:

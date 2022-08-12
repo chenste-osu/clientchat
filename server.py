@@ -1,4 +1,3 @@
-# CS372 - Project 4 Chat Server
 # Author: Steven Chen
 
 # Sources used:
